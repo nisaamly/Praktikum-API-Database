@@ -1,1 +1,1 @@
-# Praktikum-Keamanan-Perangkat-Lunak
+# Mata Kuliah Keamanan Perangkat Lunak
